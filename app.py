@@ -94,7 +94,6 @@ st.pyplot(plt)
 #         st.success(f"Predicted Amazon Price: ${prediction[0]:,.2f}")
 
 # Perform prediction
-# Perform prediction
 if st.button('Predict Amazon Price', key='predict_button'):
     with st.spinner('Predicting...'):
         prediction = model.predict(input_df)
