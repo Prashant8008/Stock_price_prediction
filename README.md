@@ -1,6 +1,6 @@
-Amazon Stock Price Prediction Project Overview
-Project Title
-Amazon Stock Price Prediction Using Linear Regression
+                                                                         Amazon Stock Price Prediction Project Overview
+                                        Project Title
+                      Amazon Stock Price Prediction Using Linear Regression
 
 Objective
 The objective of this project is to develop a machine learning model to predict the stock prices of Amazon based on historical data and other relevant market indicators.
@@ -20,7 +20,7 @@ Phase 6: Deployment
 
 Phase 7: Documentation
 
-Technologies Used
+      Technologies Used
 Programming Language: Python
 Libraries:
 Pandas for data manipulation
